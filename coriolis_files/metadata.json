@@ -1,0 +1,6 @@
+{
+  "name": "Nexus — AI-Powered SaaS Business Management Platform",
+  "description": "All-in-one SaaS business suite unifying visual website creation, intelligent CRM, marketing automation, webinar management, usage billing, and an AI workflow agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
